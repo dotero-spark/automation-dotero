@@ -6,6 +6,9 @@ function helloWorld(){
 //Example 1):
 helloWorld();
 
+//Separator:
+console.log("\n\n");
+
 //2) Addition of two integers
 function addNumbers(Num1, Num2){
     var result = Num1 + Num2;
